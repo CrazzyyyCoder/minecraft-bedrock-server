@@ -7,7 +7,7 @@
 
 {
   "accept-official-minecraft-server-eula": false,
-  "minecraft-server-version": "1.20.41.02",
+  "minecraft-server-version": "1.20.51.01",
   "server-properties": {
     "server-name": "Dedicated Node S3 Server",
     "gamemode": "survival",
@@ -22,7 +22,7 @@
     "tick-distance": 4,
     "player-idle-timeout": 30,
     "max-threads": 8,
-    "level-name": "My Cool Level",
+    "level-name": "The King",
     "level-seed": null,
     "default-player-permission-level": "member",
     "texturepack-required": false,
